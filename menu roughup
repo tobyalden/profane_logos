@@ -1,0 +1,15 @@
+Battle Menu:
+[ATTACK] [SKILL] [ITEM] [DEFEND] [ESCAPE]
+
+Town Menu:
+[INN] [SHOP] [GUILD] [TAVERN] [DUNGEON]
+
+Dungeon Menu:
+[ITEM] [SKILL] [EQUIP] [STATUS] [LOG]
+
+Start with the dungeon.
+  Make a dungeon.
+  Draw the dungeon.
+  Add a @
+  Move the @ around with the arrow keys
+  Have the @ bump into walls

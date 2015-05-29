@@ -1,3 +1,3 @@
 source('https://rubygems.org')
 
-gem("ncurses")
+gem("curses")
